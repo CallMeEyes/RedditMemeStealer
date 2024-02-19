@@ -13,7 +13,7 @@ dir_path = '.\\memes\\'
 print(Dir)
 
 bot = Bot()
-bot.login(username="eyeslearnscode", password="Gobwio01")
+bot.login(username="name", password="pass")
 
 bot.upload_photo((Dir), caption="a")
 
